@@ -10,6 +10,11 @@ public class Data_Demo {
 		int i =300;
 		b=(byte) i;
 		System.out.println(b); //44
+		
+		int ii = 178;
+		byte b1 = 62;
+		ii = b1;
+		System.out.println(ii);
 	}
 
 }
