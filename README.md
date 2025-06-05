@@ -1,30 +1,47 @@
-# 🚀 DSA in Java + System Design [Coding Blocks]
+# 🚀 Master DSA in Java + System Design (Coding Blocks)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures-Algorithms-007ACC?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-350+%20Problems-blue?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-HLD%20%7C%20LLD-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-Completed-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
-> ✨ A comprehensive repository containing notes, solutions, code snippets, and project files from the [Coding Blocks DSA + System Design Course](https://codingblocks.com). Ideal for mastering data structures, algorithms, and scalable system design in Java.
-
----
-
-## 📚 Course Overview
-
-This course covered everything from basics to advanced topics in DSA and system design:
-
-- ✅ 350+ Coding Questions
-- ✅ 6 Live Projects
-- ✅ Beginner-Friendly (No coding background needed)
-- ✅ Covers Foundation → Advanced Concepts
-- ✅ Real-world interview preparation
-- ✅ Language: **Java**
+> 📚 A complete, beginner-to-advanced journey through **Data Structures**, **Algorithms**, and **System Design** in Java — based on the [Coding Blocks](https://www.codingblocks.com/) curriculum.  
+> This repo contains topic-wise organized notes, solved problems, projects, and real-world system design exercises to prepare you for interviews at top tech companies.
 
 ---
 
-## 🗂️ Repository Structure
+## 📌 Table of Contents
 
-> 🔥 Click on the folders to explore topic-wise content.
+- [Course Overview](#-course-overview)
+- [Repository Structure](#-repository-structure)
+- [📁 Topic-wise Modules](#-topic-wise-modules)
+- [🧠 Projects](#-projects)
+- [🚀 System Design](#-system-design)
+- [💼 Interview Prep](#-interview-prep)
+- [🧰 Tools & Technologies](#-tools--technologies)
+- [🎓 Certification](#-certification)
+- [📎 License](#-license)
+- [🙌 Connect With Me](#-connect-with-me)
 
+---
+
+## 📖 Course Overview
+
+| Attribute             | Details                                      |
+|----------------------|----------------------------------------------|
+| 💻 Language           | Java                                          |
+| ⏱ Duration           | 4–6 Months                                   |
+| 🧩 Problem Solving    | 350+ DSA Questions                            |
+| 🛠 Projects           | 6 Real-life Projects                          |
+| 👨‍🏫 Mentor Support     | Yes (Doubt Solving, Feedback, Mentorship)    |
+| 📋 Mode               | Online, Live & Classroom Options             |
+| 🎓 Certification      | Certificate of Completion & Excellence       |
+| 🎯 Goal               | Crack Tech Interviews at Product Companies   |
+
+---
+
+## 🗂 Repository Structure
+
+This repository is organized **topic-wise**, following the flow of the Coding Blocks course:
 
