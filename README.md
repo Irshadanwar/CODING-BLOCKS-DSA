@@ -161,8 +161,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to connect if you're looking to collaborate or need help understanding the topics better.
 
-- 📧 Email: `yourname@email.com`
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: `anwarirshad18@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/yourname]([https://linkedin.com/in/yourname](https://in.linkedin.com/in/md-irshad-anwar-8b88a9232))
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 - 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
