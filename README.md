@@ -161,17 +161,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to connect if you're looking to collaborate or need help understanding the topics better.
 
-- 📧 Email: `anwarirshad18@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/yourname]([https://linkedin.com/in/yourname](https://in.linkedin.com/in/md-irshad-anwar-8b88a9232))
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 **Email:** [anwarirshad18@gmail.com](mailto:anwarirshad18@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/md-irshad-anwar-8b88a9232](https://linkedin.com/in/md-irshad-anwar-8b88a9232)
 
 ---
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
-If you found this helpful, don't forget to ⭐ **Star** this repo and consider contributing!
+If you found this helpful, don't forget to ⭐ **Star** this repo and consider contributing
 
 
 
