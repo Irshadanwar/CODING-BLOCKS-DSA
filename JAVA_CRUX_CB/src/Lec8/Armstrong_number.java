@@ -37,3 +37,18 @@ public class Armstrong_number {
 	}
 
 }
+
+
+
+
+
+/*
+ * This program checks whether a number is an Armstrong number or not.
+ * 
+ * Step 1: Takes integer input from user.
+ * Step 2: Counts number of digits in the input number.
+ * Step 3: Calculates sum of each digit raised to the power of total digits.
+ * Step 4: Compares the sum with original number.
+ * Step 5: Prints 'true' if it's an Armstrong number, otherwise 'false'.
+ */
+
