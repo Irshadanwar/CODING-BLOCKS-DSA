@@ -1,0 +1,26 @@
+package Lec9;
+
+public class Min_Value {
+    public static void main(String[] args) {
+        int[] arr = { 2, 3, 1, 4, 15, 6 };
+        System.out.println(min(arr));
+    }
+
+    public static int min(int[] arr) {
+        int min = arr[0];
+        for (int i = 1; i < arr.length; i++) {
+            if (arr[i] < min) {
+                min = arr[i];
+            }
+        }
+        return min;
+    }
+}
+```
+
+The only changes made were:
+
+1. Renamed the class to `Min_Value` and the method to `min`.
+2. Changed the comparison operator in the `if` statement to `<` (less than) to find the minimum value.
+
+This code will output the minimum value in the array, which is `1`.
