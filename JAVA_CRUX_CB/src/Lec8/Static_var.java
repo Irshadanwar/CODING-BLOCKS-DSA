@@ -20,3 +20,31 @@ public class Static_var {
 	}
 
 }
+
+
+
+
+/*
+ * This program demonstrates the use of static (class-level) and local variables in Java.
+ * 
+ * Key Concepts:
+ * 1. 'static' keyword:
+ *    - Declares class-level variables that are shared among all instances of the class.
+ *    - Here, 'static int val = 100;' is a global/static variable.
+ * 
+ * 2. Local Variables:
+ *    - Declared inside methods.
+ *    - Exist only within the method scope.
+ *    - 'int val = 9;' inside 'fun()' shadows the static 'val' locally.
+ * 
+ * Code Flow:
+ * - main() calls fun(8, 5)
+ * - fun() updates and prints local 'x', then prints static 'val'
+ * - Declares local 'val' = 9 (this hides the static one in local scope)
+ * - Updates static 'val' using 'Static_var.val = ...'
+ * - After fun(), main() prints the updated static 'val'
+ * 
+ * Output demonstrates:
+ * - Difference between local and static/global variables
+ * - How static variables retain changes across method calls
+ */
